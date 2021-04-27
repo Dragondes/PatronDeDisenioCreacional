@@ -1,0 +1,11 @@
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.exe
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.deps.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.runtimeconfig.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.runtimeconfig.dev.json
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\bin\Debug\netcoreapp3.1\patron de diseño creacional.pdb
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\obj\Debug\netcoreapp3.1\patron de diseño creacional.csprojAssemblyReference.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\obj\Debug\netcoreapp3.1\patron de diseño creacional.AssemblyInfoInputs.cache
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\obj\Debug\netcoreapp3.1\patron de diseño creacional.AssemblyInfo.cs
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\obj\Debug\netcoreapp3.1\patron de diseño creacional.dll
+C:\Users\CCCasa\Desktop\carlos\arquitectura de software\patron de diseño creacional\obj\Debug\netcoreapp3.1\patron de diseño creacional.pdb
